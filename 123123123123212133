@@ -550,7 +550,7 @@
 
 	/*Watermark*/
 		#app-mount .typeWindows-1za-n7:after {
-			content: "Discord MEGA SUPER PRO VERSION";
+			content: "Discrod Super Mega Pro Version";
 			color: rgb(255,255,255,0.6);
 			font-weight: 500;
 
